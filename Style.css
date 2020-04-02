@@ -1,0 +1,20 @@
+html{ background-color: rgb(255,179,0);}
+h1{
+    text-align: center;
+  }
+aside{
+    background-color: rgb(255, 94, 0) ;
+    font-family: "Comic Sans MS", sans-serif;
+    font-size:xx-large;
+    color:rgb(0,179,0);
+    padding: 35px;
+    margin: 90px;
+    text-decoration:underline rgb(0,179,255) wavy;    
+    text-align:center;
+  }
+progress{
+    height: 40px;
+    width: 104em;
+    border-width: 3px;
+    border-radius: 4px;
+  }   
